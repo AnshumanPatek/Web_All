@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>first Class</title>
+</head>
+<body>
+    <a href="linking.html"></a>
+    <a href="index.html#msg1">msg1</a>
+    <a href="linking.html" target="_top"> checking</a>
+    <h1> Html page</h1>
+    <h2> Html page</h2>
+    <h3> Html page</h3>
+    <h4> Html page</h4>
+    <h5> Html page</h5>
+    <h6> Html page</h6><br/>
+    <hr color="yellow">
+    <p id="msg1">
+        Lorem ipsum dolor sit amet consectetur adipisicing elit. Hic, reiciendis? Accusamus commodi, sequi obcaecati facilis aliquid vel ipsa accusantium amet maxime exercitationem nam nesciunt cum a! Nemo architecto ipsa nisi, quo quod necessitatibus illo minus corporis dolore culpa unde laudantium officia omnis maxime tempora totam. Omnis harum et aliquam dolor qui quisquam laudantium doloremque suscipit voluptas ipsum alias officiis quis vero facilis recusandae odio nulla odit magni possimus excepturi, modi vel! Provident, aliquid placeat, eos neque tempore sunt fuga doloremque error, itaque esse modi laudantium vel dolores consequatur totam? Atque nisi doloribus ipsa! Aperiam, a omnis molestias odio nobis recusandae?
+    </p>
+    <img src="Img/new.jpeg" alt="lion" width="500" height="400">
+    <img src="Img/new.jpg" alt="dragon" width="400" height="300">
+
+<hr color=" green">
+<b>bold</b>
+<i>italic</i>
+<u>underline</u>
+<em> another italic</em>
+<mark> mark tag</mark>
+<del> delete </del> <ins> insert information</ins>
+<small> this is small</small>
+<h3> h <sub>2</sub>O</h3>
+<h3> h <sup>2</sup>O</h3>
+</body>
+</html>

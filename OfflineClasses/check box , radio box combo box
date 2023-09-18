@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>CSS</title>
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <h1>style</h1>
+    <form>
+      <label> select your lang</label>
+      <br />
+      <input type="checkbox" name="java" id="java" />
+      <br />
+      <input type="checkbox" name="python" id="python" />
+      <br />
+      <input type="checkbox" name="react" id="react" />
+      <br />
+      <input type="checkbox" name="js" id="js" />
+      <br />
+      <br />
+
+      <label> Radio button</label>
+      <input type="radio" name="gender" id="gender" />Male <br />
+      <input type="radio" name="gender" id="gender" />female <br />
+
+      <label>select your choice</label>
+      <select name="choice" id="choice" size="4" multiple></select>
+      <option value="" selected>select your choice</option>
+      <option value="java">java</option>
+      <option value="python">python</option>
+      <option value="js">js</option>
+      <option value="go">go</option>
+    </form>
+  </body>
+</html>

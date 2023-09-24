@@ -1,0 +1,29 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.navbar li{
+    display: inline;
+  
+   
+    border-radius: 2px;
+
+
+}
+.navbar li a{
+    background-color: orangered;
+    padding: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+    color: white;
+    text-decoration: none;
+
+}
+.navbar{
+    background-color: orange;
+    width: 80px;
+    height: 40px;
+    margin: 0px auto;
+    /* margin ko top and bottom k liye hai second wala left and right wala hai */
+    line-height: 40px;
+}
